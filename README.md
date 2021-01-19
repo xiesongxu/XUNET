@@ -4,6 +4,7 @@
 
 ## 1.整体架构图
 
+![](D:\Axiesongxu\Enterprise Architect\netty\netty的各种结构图\netty中多(multi)服务器的Reactor模型.jpg)
 
 
 ## 2.服务端的使用
